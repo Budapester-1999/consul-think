@@ -6,7 +6,6 @@ Welcome to the repository for the Consul Think website. This README file will gu
 
 - [Introduction](#introduction)
 - [Setup and Installation](#setup-and-installation)
-- [Contact](#contact)
 
 ## Introduction
 
